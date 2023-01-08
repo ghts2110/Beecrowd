@@ -5,7 +5,7 @@ int main(){
     scanf("%lld", &num);
     while(num != 0){
         printf("%lld", num % 10);
-        num /= 10;
+        num /= 10; 
     }
     printf("\n");
     return 0;
