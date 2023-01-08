@@ -12,7 +12,7 @@ int main(){
         if(p == 0){
             printf("0\n");
         }else{
-            p--;
+            p--; 
             printf("%.LF\n", p);
                     
         }
