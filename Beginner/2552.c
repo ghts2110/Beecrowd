@@ -5,7 +5,7 @@ int main(){
 
     while(scanf("%d %d", &x, &y) != EOF){
         int mat[x][y], i, j;
-
+ 
         for(i = 0; i != x; i++){
             for(j = 0; j != y; j++){
                 scanf("%d", &mat[i][j]);
