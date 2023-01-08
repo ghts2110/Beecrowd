@@ -13,7 +13,7 @@ int main(){
         }else if(b1 + b2 == 1){
             printf("P.Y.N.G.\n");
         }else if(b1 + b2 == 2){
-            printf("DNSUEY!\n");
+            printf("DNSUEY!\n"); 
         }else if(b1 + b2 == 3){
             printf("SERVERS\n");
         }else if(b1 + b2 == 4){
