@@ -9,7 +9,7 @@ int main(){
         while(datas--){
             int cont = 0, i;
             scanf("%d/%d/%d", &day, &month, &year);
-
+ 
             for(i = 0; i != people; i++){
                 int n;
                 scanf("%d", &n);
