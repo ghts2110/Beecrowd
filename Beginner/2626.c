@@ -6,7 +6,7 @@ int main(){
         int d, l, p;
 
         if(dodo[0] == 't'){
-            d = 3;
+            d = 3; 
         }else if(dodo[1] == 'a'){
             d = 2;
         }else{
