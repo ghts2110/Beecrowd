@@ -8,4 +8,4 @@ int main(){
     char c = '%';
     printf("%c\n", c);
     return 0;
-}
+} 
