@@ -7,7 +7,7 @@ int main(){
     printf("Feliz nat");
     int i;
     for(i = 0; i != num; i++){
-        printf("a");
+        printf("a"); 
     }
     printf("l!\n");
     return 0;
