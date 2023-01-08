@@ -12,7 +12,7 @@ int main(){
     while(index != -1 && index != t){
         if(array[index] % 2 == 0){
             if(array[index] != 0){
-                array[index]--;
+                array[index]--; 
             }
             index--;
         }else{
