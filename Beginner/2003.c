@@ -9,7 +9,7 @@ int main(){
         }else if(array[0] == '6'){
             hora = 6;
         }else if(array[0] == '7'){
-            hora = 7;
+            hora = 7; 
         }else if(array[0] == '8'){
             hora = 8;
         }else if(array[0] == '9'){
