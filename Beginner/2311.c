@@ -9,7 +9,7 @@ int main(){
     while(t--){
         t2 = 7, max = 0, min = 100, cont = 0;
         scanf("%s", name);
-        scanf("%f", &d);
+        scanf("%f", &d);  
 
         while(t2--){
             scanf("%f", &n);
