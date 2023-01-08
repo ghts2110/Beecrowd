@@ -8,7 +8,7 @@ int main(){
         int cont = 0;
         while(t != 1){
 
-            t /= 2;
+            t /= 2; 
             cont++;
         }
 
