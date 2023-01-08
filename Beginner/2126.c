@@ -12,7 +12,7 @@ int main(){
             } 
             cont++;
         }
-        cont -= 2;
+        cont -= 2; 
  
         for(i = cont; i != 33; i++){
             index = c = 0;
