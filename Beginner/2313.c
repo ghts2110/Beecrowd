@@ -13,7 +13,7 @@ int main(){
             printf("Valido-Isoceles\n");
         }else{
             printf("Valido-Escaleno\n");
-        }
+        } 
 
         if(a > b && a > c){
             if(pow(a, 2) == pow(b, 2) + pow(c, 2)){
