@@ -11,7 +11,7 @@ int main(){
 
         for(i = 0; i != n - 1; i++){
             for(j = i + 1; j != n; j++){
-                if(note[i] < note[j]){
+                if(note[i] < note[j]){ 
                     int v = note[i];
                     note[i] = note[j];
                     note[j] = v;
