@@ -11,7 +11,7 @@ int main(){
             printf("Y\n");
         }else{
             printf("N\n");
-        }
+        } 
     }
     return 0;
 }
