@@ -7,7 +7,7 @@ int main(){
         char j1[7], j2[7];
         scanf("%s %s", j1, j2);
         if(j1[0] == 'a' && j2[0] != 'a'){
-            printf("Jogador 1 venceu\n");
+            printf("Jogador 1 venceu\n"); 
         }else if(j1[0] != 'a' && j2[0] == 'a'){
             printf("Jogador 2 venceu\n");
         }else if(j1[0] == 'a' && j2[0] == 'a'){
