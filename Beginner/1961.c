@@ -10,7 +10,7 @@ int main(){
     while(t--){ 
         scanf("%d", &last);
         if(fist + P < last || abs(fist - last) > P){
-            win = 1;
+            win = 1; 
         }
 
         fist = last;
