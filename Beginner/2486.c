@@ -14,7 +14,7 @@ int main(){
         }
 
         while(t--){  
-            scanf("%d", &v);
+            scanf("%d", &v); 
             scanf("%[^\n\r]", name);
            
             if(name[1] == 's'){
