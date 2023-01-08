@@ -12,7 +12,7 @@ int main(){
         }
         
         car *= 100;
-
+ 
         double value = pro/car;
         printf("%.4lf\n", value);
     }
