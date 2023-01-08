@@ -10,3 +10,4 @@ int main(){
     printf("%.2f\n", value);
     return 0;
 }
+ 
