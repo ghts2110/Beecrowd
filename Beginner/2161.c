@@ -4,7 +4,7 @@ int main(){
     int t;
     double value, x = 6;
     scanf("%d", &t);
-    
+     
     if(t == 0){
         value = 3;
     }else{
