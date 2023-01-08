@@ -11,7 +11,7 @@ int main(){
             if(server == id && game == 0){
                 cont++;
             }
-        }
+        } 
 
         printf("%d\n", cont);
     }
