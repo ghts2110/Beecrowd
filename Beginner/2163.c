@@ -11,7 +11,7 @@ int main(){
             mat[i][j] = num;
         }
     }
-
+ 
     for(i = 1; i != x - 1; i++){
         for(j = 1; j != y - 1; j++){
             if(mat[i][j] == 42){
