@@ -8,7 +8,7 @@ int main(){
 
     if(strlen(tweet) <= 140){
         printf("TWEET\n");
-    }else{
+    }else{ 
         printf("MUTE\n");
     }
     return 0;
