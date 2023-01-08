@@ -7,7 +7,7 @@ int main(){
     }else if(r == 1 && a == 1){
         printf("Jogador 2 ganha!\n");
     }else{
-        int odd_even = (j1 + j2) % 2;
+        int odd_even = (j1 + j2) % 2; 
         if(p == 1 && odd_even == 0){
             printf("Jogador 1 ganha!\n");
         }else if(p == 0 && odd_even == 1){
