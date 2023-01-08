@@ -11,7 +11,7 @@ int main(){
             break;
         }else{
             printf("YES\n");
-            break;
+            break; 
         }
     }
     return 0;
