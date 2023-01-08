@@ -10,7 +10,7 @@ int main(){
         power1 = (a1 + d1)/2;
         power2 = (a2 + d2)/2;
 
-        if(l1 % 2 == 0){
+        if(l1 % 2 == 0){ 
             power1 += b;
         }
         if(l2 % 2 == 0){
