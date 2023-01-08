@@ -3,7 +3,7 @@
 int main(){
     int t, cont = 0;
     while(scanf("%d", &t) != EOF){
-        int i, num = 0;
+        int i, num = 0; 
         for(i = 0; i != t + 1; i++){
             num += i;
         }
