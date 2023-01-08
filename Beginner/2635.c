@@ -12,7 +12,7 @@ int main(){
    
     scanf("%d", &t2);
 
-    while(t2--){
+    while(t2--){ 
         int cont, equal = 0, max = 0;
         char search[101], nu;
         scanf("%c", &nu);
