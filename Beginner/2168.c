@@ -9,7 +9,7 @@ int main(){
     int i,j;
     for(i = 0; i != t + 1; i++){
         for(j = 0; j != t + 1; j++){
-            scanf("%d", &c);
+            scanf("%d", &c); 
             mat[i][j] = c;
         }
     }
