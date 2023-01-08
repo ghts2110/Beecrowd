@@ -8,7 +8,7 @@ int main(){
         }
         int troco = n - m;
         if(troco == 4 ||troco == 7 ||troco == 12 ||troco == 22 ||troco == 52 ||troco == 102){
-            printf("possible\n");
+            printf("possible\n"); 
         }else if(troco == 10 ||troco == 15 ||troco == 25 ||troco == 55 ||troco == 105){
             printf("possible\n");
         }else if(troco == 20 ||troco == 30 ||troco == 60 ||troco == 110){
