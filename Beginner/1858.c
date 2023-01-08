@@ -5,7 +5,7 @@ int main(){
     scanf("%d", &t);
     while(t--){
         scanf("%d", &n);
-        if(n < min){
+        if(n < min){ 
             bestIndex = index;
             min = n;
         }
