@@ -10,7 +10,7 @@ int main(){
         d += vn * 1.5;
 
         r = r1 + r2;
-
+ 
         if(r >= d){
             printf("Y\n");
         }else{
