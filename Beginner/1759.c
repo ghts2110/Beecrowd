@@ -7,7 +7,7 @@ int main(){
     while(t--){
         if(t == 0){
             printf("Ho!\n");
-        }else{
+        }else{ 
             printf("Ho ");
 
         }
