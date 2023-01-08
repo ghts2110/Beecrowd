@@ -8,7 +8,7 @@ int main(){
         float min = (2*t)/3; 
 
         while(t--){
-            int n;
+            int n; 
             scanf("%d", &n);
             cont += n;
         }
