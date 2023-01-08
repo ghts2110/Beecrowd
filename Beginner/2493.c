@@ -9,7 +9,7 @@ int main(){
         
         for(i = 0; i != t; i++){
             scanf("%d %d=%d", &op[i][0], &op[i][1], &op[i][2]);
-        }
+        } 
 
         for(i = 0; i != t; i++){
             scanf("%s %d %c", name, &index, &s);
