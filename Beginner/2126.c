@@ -13,7 +13,7 @@ int main(){
             cont++;
         }
         cont -= 2;
-
+ 
         for(i = cont; i != 33; i++){
             index = c = 0;
             for(j = inicio; j != i + 1; j++){
