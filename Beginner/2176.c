@@ -10,7 +10,7 @@ int main(){
     for(i = 0; i != sizeof(n); i++){
         if(n[i] == '1'){
             cont++;
-        }
+        } 
     }
 
     if(cont % 2 == 0){
