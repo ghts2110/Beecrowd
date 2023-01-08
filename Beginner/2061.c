@@ -10,7 +10,7 @@ int main(){
             abas++;
         }else{
             abas--;
-        }
+        } 
         if(abas < 0){
             abas = 0;
         }
