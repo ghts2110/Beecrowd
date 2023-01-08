@@ -11,3 +11,4 @@ int main(){
     printf("%.1lf\n", value);
     return 0;
 }
+ 
