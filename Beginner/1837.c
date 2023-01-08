@@ -10,7 +10,7 @@ int main(){
             q--;
         }else if(r < 0 && a < 0 && b < 0){
             q++;
-        }
+        } 
     }
     printf("%d %d\n", q, r);
     return 0;
