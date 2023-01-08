@@ -10,7 +10,7 @@ int main(){
 
         if(m1 < m2){
             min = m1;
-        }else{
+        }else{ 
             min = m2;
         }
 
