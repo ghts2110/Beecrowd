@@ -13,7 +13,7 @@ int main(){
                 scanf("%d", &matM[i][j]);
             }
         }
-
+ 
         for(i = 0; i != cardL; i++){
             for(j = 0; j != t; j++){
                 scanf("%d", &matL[i][j]);
