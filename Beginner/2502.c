@@ -9,7 +9,7 @@ int main(){
         char real[c], fake[c];
         scanf("%c", l);
         scanf("%[^\n\r] %[^\n\r]", fake, real);
-
+ 
         while(n--){
             scanf("%c", l);
             scanf("%[^\n\r]", phrase);
