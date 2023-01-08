@@ -9,7 +9,7 @@ int main(){
         if(year <= 2014){
             printf("%d D.C.\n", 2015 - year);
         }else{
-            printf("%d A.C.\n", year - 2014);
+            printf("%d A.C.\n", year - 2014); 
         }
     }
     return 0;
