@@ -9,7 +9,7 @@ int main(){
         printf("ALTURA = %.2lf\n", altura);
         
         area = pi * raio * raio;
-        printf("AREA = %.2lf\n", area);
+        printf("AREA = %.2lf\n", area); 
     }
     return 0;
 }
