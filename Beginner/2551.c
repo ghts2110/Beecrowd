@@ -13,7 +13,7 @@ int main(){
             if(med < distance/time){
                 printf("%d\n", cont);
                 med = distance/time;
-            }
+            } 
         }
     }
 
