@@ -10,7 +10,7 @@ int main(){
         while(t--){
             int n, value;
             scanf("%d", &n);
-            if(n % 2 == 1){
+            if(n % 2 == 1){ 
                 value = (n - 1) * 2 + 1;
             }else{
                 value = (n - 2) * 2 + 2;
