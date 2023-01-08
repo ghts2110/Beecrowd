@@ -6,7 +6,7 @@ int main(){
     char Sheldon[8], Raj[8];
     for(i = 1; i != t + 1; i++){
         scanf("%s %s", Sheldon, Raj);
-        printf("Caso #%d: ", i);
+        printf("Caso #%d: ", i); 
         if(Sheldon[0] == 'p' && Sheldon[1] == 'a'){
             s = 0;
         }else if(Sheldon[0] == 'p' && Sheldon[1] == 'e'){
