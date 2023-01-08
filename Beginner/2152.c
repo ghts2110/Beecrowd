@@ -13,7 +13,7 @@ int main(){
         }else{
             printf("%d:", h);
         }
-
+ 
         if(m < 10){
             printf("0%d - ", m);
         }else{
