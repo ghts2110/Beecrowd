@@ -11,7 +11,7 @@ int main(){
         }
         if(num % 3 == 0){
             cont3++;
-        }
+        } 
         if(num % 4 == 0){
             cont4++;
         }
