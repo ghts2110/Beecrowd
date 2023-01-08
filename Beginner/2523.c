@@ -9,7 +9,7 @@ int main(){
         while(t--){
             int n;
             scanf("%d", &n);
-            printf("%c", l[n-1]);
+            printf("%c", l[n-1]); 
         }
         printf("\n");
     }
