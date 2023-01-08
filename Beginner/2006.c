@@ -9,7 +9,7 @@ int main(){
         if(answer == tea){
             cont++;
         }
-    }
+    } 
     printf("%d\n", cont);
     return 0;
 }
