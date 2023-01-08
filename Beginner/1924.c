@@ -7,5 +7,5 @@ int main(){
     while(scanf("%s", name) != EOF){
     }
     printf("Ciencia da Computacao\n")
-    return 0;
+    return 0; 
 }
