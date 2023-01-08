@@ -11,7 +11,7 @@ int main(){
         scanf("%s", name);
 
         scanf("%f %f %f", &s, &b, &a);
-        alls += s;
+        alls += s; 
         allb += b;
         alla += a;
 
