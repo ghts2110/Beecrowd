@@ -12,4 +12,4 @@ int main(){
 
     printf("%d\n", final);
     return 0;
-}
+} 
