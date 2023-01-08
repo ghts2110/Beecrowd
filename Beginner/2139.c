@@ -6,7 +6,7 @@ int main(){
         if(month == 12 && day == 24){
             printf("E vespera de natal!\n");
         }else if(month == 12 && day == 25){
-            printf("E natal!\n");
+            printf("E natal!\n"); 
         }else if(month == 12 && day > 25){
             printf("Ja passou!\n");
         }else{
