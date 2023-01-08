@@ -9,6 +9,6 @@ int main(){
         }
 
         printf("%d\n", x * xp);
-    }
+    } 
     return 0;
 }
