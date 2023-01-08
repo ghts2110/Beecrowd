@@ -8,7 +8,7 @@ int main(){
         float quantidade, cust;
         int cod;
         scanf("%d %f", &cod, &quantidade);
-        cust = cod % 10 + 0.50;
+        cust = cod % 10 + 0.50; 
         value += cust * quantidade;
     }
     printf("%.2f\n", value);
