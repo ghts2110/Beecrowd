@@ -13,7 +13,7 @@ int main(){
         for(i = 0; i != index; i++){
             if(strcmp(box[i], s) == 0){
                 c++;
-            }
+            } 
         }
 
         if(c == 0){
