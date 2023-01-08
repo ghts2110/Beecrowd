@@ -7,5 +7,5 @@ int main(){
     for(i = 0; i != t; i++){
         printf("%c", array[i]);
     }printf("\n");
-    return 0;
+    return 0; 
 }
