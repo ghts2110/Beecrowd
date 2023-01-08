@@ -11,7 +11,7 @@ int main(){
         if(note > bestnote){
             bestnote = note;
             bestIp = ip;
-        }
+        } 
     }
 
     if(bestnote >= 8){
