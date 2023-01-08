@@ -7,7 +7,7 @@ int main(){
     while(t--){
 
         int i;
-        for(i = 0; i != 10000; i++){
+        for(i = 0; i != 10000; i++){ 
             galopeira[i]='-';
         }
 
