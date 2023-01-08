@@ -3,7 +3,7 @@
 int main(){
     long num;
     int index = 7, array[8] = {-1, -1, -1, -1, -1, -1, -1, -1};
-    scanf("%ld", &num);
+    scanf("%ld", &num); 
 
     while(num >= 16){
         array[index] = num % 16;
