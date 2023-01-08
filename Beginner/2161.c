@@ -10,7 +10,7 @@ int main(){
     }else{
         int i;
         for(i = 0; i != t; i++){
-            x = 1/x;
+            x = 1/x; 
             if(i != t-1){
                 x += 6;
             }
