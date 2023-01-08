@@ -19,7 +19,7 @@ int main(){
                     indexYT = j;
                 }
             }
-        }
+        } 
         
         int d = abs(indexXP - indexXT) + abs(indexYP - indexYT);
         printf("%d\n", d);
