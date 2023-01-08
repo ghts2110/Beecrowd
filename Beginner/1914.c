@@ -6,7 +6,7 @@ int main(){
     char nome1[10], nome2[10], escolha1[6], escolha2[6];
     scanf("%d", &t);
     while(t--){
-        scanf("%s %s %s %s", nome1, escolha1, nome2, escolha2);
+        scanf("%s %s %s %s", nome1, escolha1, nome2, escolha2); 
         scanf("%d %d", &value1, &value2);
             
         if(strcmp(escolha1, "PAR") == 0 && (value1 + value2) % 2 == 0){
