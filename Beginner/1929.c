@@ -14,7 +14,7 @@ int main(){
             mid_max = mid_min;
             mid_min = num;
         }else if(mid_max > num){
-            max = mid_max;
+            max = mid_max; 
             mid_max = num;
         }else{
             max = num;
