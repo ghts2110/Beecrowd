@@ -11,7 +11,7 @@ int main(){
         scanf("%d", &h);
         if(h > lasth){
             o = 1;
-        }else if(h == lasth){
+        }else if(h == lasth){ 
             nlg = 0;
         }else{
             o = 0;
