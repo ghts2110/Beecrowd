@@ -9,7 +9,7 @@ int main(){
             value += 4;
         }if(cod[1] == '*'){
             value += 2;
-        }if(cod[2] == '*'){
+        }if(cod[2] == '*'){ 
             value += 1;
         }
 
