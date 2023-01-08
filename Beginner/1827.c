@@ -13,7 +13,7 @@ int main(){
                 }else if(i == j){
                     printf("2");
                 }else if(i == min && j == max){
-                    printf("3");
+                    printf("3"); 
                 }else{
                     printf("0");
                 }
