@@ -10,7 +10,7 @@ int main(){
             scanf("%d", &h);
 
             if(h <= max && h >= min){
-                cont++;
+                cont++; 
             }
         }
 
