@@ -9,7 +9,7 @@ int main(){
             printf("E natal!\n"); 
         }else if(month == 12 && day > 25){
             printf("Ja passou!\n");
-        }else{
+        }else{ 
             int x;
             if(month == 1){
                 x = 360 - day;
