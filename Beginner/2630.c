@@ -10,7 +10,7 @@ int main(){
         int r, g, b, p;
 
         scanf("%s", comand);
-        scanf("%d %d %d", &r, &g, &b);
+        scanf("%d %d %d", &r, &g, &b); 
 
         if(comand[0] == 'e'){
             p = (r * 0.3) + (g * 0.59) + (b * 0.11);
