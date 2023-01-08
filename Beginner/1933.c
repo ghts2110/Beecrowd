@@ -8,6 +8,6 @@ int main(){
     }else{
         max = b;
     }
-    printf("%d\n", max);
+    printf("%d\n", max); 
     return 0;
 }
