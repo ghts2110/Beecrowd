@@ -11,7 +11,7 @@ int main(){
 
     for(i = 0; i != t - 1; i ++){
         for(j = i + 1; j != t; j++){
-            if(mat[i] < mat[j]){
+            if(mat[i] < mat[j]){ 
                 int d = mat[i];
                 mat[i] = mat[j];
                 mat[j] = d;
