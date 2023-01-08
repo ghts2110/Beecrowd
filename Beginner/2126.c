@@ -9,7 +9,7 @@ int main(){
         for(i = 0; i != 11; i++){
             if(n1[i] == '-'){
                 break;
-            }
+            } 
             cont++;
         }
         cont -= 2;
