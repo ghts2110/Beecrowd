@@ -13,7 +13,7 @@ int main(){
         scanf("%s %d %d %d", elemental, &level, &cx, &cy);
 
         if(elemental[0] == 'f'){
-            if(level == 1){
+            if(level == 1){ 
                 raio = 20;
             }else if(level == 2){
                 raio = 30;
